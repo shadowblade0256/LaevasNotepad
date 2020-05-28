@@ -20,7 +20,7 @@ public class HelpMenuListener implements ActionListener
     {
         if (e.getSource()==mnHelpAbout)
             JOptionPane.showMessageDialog(null,
-                                "记事本v0.5\nby:Siyuan Wang from AHNU School of CS & Informations\n2020-05-27",
+                                "记事本v0.51\nby:Laevablade from AHNU School of CS & Informations\n2020-05-29",
                                 "关于",
                                 JOptionPane.INFORMATION_MESSAGE);
     }
