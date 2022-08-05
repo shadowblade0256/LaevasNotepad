@@ -6,9 +6,9 @@ v0.51
 - Fixed encoding corruption when reading files
 
 # Known Issues
-- When editing an opened file, the save-confirm dialog may disappear.
+- When editing an opened file, the save dialog may disappear.
 
-# Planned to be added
+# Future plans
 - Multi-encoding support
 - Word count
 - Font chooser
